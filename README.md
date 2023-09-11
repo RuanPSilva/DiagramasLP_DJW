@@ -9,6 +9,7 @@ pós-condições: Completou jogo, verificar pontuação e finalizar jogo
 ações do ator: Ações do PC
 
 1- Iniciar Jogo 
+
 2- Selecionar Dificuldade               
                           
                           3- Adicionar os obstaculos conforme os obstaculos
@@ -18,6 +19,7 @@ ações do ator: Ações do PC
                           
                           6- Calcular pontuação
 7- Ver pontuação
+
 8- Finalizar Jogo
                           
                           9- Fechar Jogo
@@ -39,6 +41,7 @@ pós-condições: Completou jogo, verificar pontuação e finalizar jogo
 ações do ator: Ações do PC
 
 1- Iniciar Jogo 
+
 2- Selecionar Arma              
 
                           3- Adicionar os inimigos aleatoriamente
@@ -50,6 +53,7 @@ ações do ator: Ações do PC
                           
                           6- Calcular Pontuação
 7- Ver pontuação
+
 8- Finalizar Jogo
                           
                           9- Fechar Jogo
